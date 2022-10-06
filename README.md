@@ -4,4 +4,4 @@ Personal Website
 
 https://www.braydenneale.com
 
-Generated from Vue application: [braydenneale-vue](https://github.com/BraydenNeale/braydenneale-vue)
+Generated from React application: [braydenneale-site](https://github.com/BraydenNeale/braydenneale-site)

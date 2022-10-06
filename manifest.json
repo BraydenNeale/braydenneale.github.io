@@ -1,0 +1,30 @@
+{
+  "short_name": "Braydenneale",
+  "name": "Brayden Neale Personal Website",
+  "icons": [
+    {
+      "src": "/img/aws_solution_architect_badge.png",
+      "type": "image/png",
+      "sizes": "340x340"
+    },
+    {
+      "src": "img/ckad_cncf_badge.png",
+      "type": "image/png",
+      "sizes": "340x340"
+    },
+    {
+      "src": "img/dynatrace_professional_badge.png",
+      "type": "image/png",
+      "sizes": "340x340"
+    },
+    {
+      "src": "img/dynatrace_acm_badge.png",
+      "type": "image/png",
+      "sizes": "340x340"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
